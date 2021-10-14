@@ -21,7 +21,6 @@ function NavBar() {
                 Home
               </NavLink>
             </li>
-
             <li className="nav-item">
               <NavLink
                 exact
